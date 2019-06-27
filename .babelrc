@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "evn"
+  ],
+  // "plugins": [
+  //   "transform-runtime"
+  // ]
+}
